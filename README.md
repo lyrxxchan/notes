@@ -1,7 +1,8 @@
 # skul notes
-school notes rep kase i can 
+this is the official repository of my school notes, this place will be updated and is free to the public (maybe), please take care of these notes
 
-# DESC
-Anyways, This will be the official repository of thy school notes, this will be updated everyone once in a awhile!
-these notes are for free, could add a liscence soon for it, ahaha
-please take good care of them, those things are worth my hard work
+# How to get the entire rep
+you may clone the rep by doing this
+``` git clone ```
+
+
