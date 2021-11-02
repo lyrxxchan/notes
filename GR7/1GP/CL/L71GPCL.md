@@ -1,0 +1,21 @@
+# Assert your life
+      - Cultivate gratitude
+            - keeping a gratitude journal of what you're thankful for
+      - Greet people
+            - make an effort to greet people
+      - Try a digital detox
+            - step away from your phone for a few hours
+      - use positive self-talk
+            - negative is bad
+      - practice random acts of kindness
+            - being kind can help you and others 
+      - eat at least one meal mindfully
+            - mindful eating gives you a chance to check in both your physical feelings and emotions
+      - Get enough sleep
+            - Try to get seven to eight hours of sleep
+      - Forgive yourself and otherrs
+            - holding on regret and stuff is bad, forgive yourself
+      - Engage in self care
+            - self explanatory
+      - Be kind to yourself
+            - respect yourself 
