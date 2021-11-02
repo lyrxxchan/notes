@@ -3,6 +3,7 @@ this is the official repository of my school notes, this place will be updated a
 
 # How to get the entire rep
 you may clone the rep by doing this
-``` git clone ```
-
+```
+git clone 
+```
 
