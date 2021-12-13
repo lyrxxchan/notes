@@ -9,12 +9,14 @@ Updating this repository will happen usually before exams, so others can have un
 ### REASONS WHY I HAVE THIS
 mainly to help people get through exams, i'm fond of typing and writing down notes and every time there's a discussion, its either teachers wont send the slides and make us take notes because its our responsibility and also so that i have something to do in class besides listening and i have materials to study as well
 
-### How to get the entire rep
+### HOW TO GET A COPY?
 you may clone the rep by doing this on your linux/MAC/windows terminal, you will need **git clone** installed, I dont use windows so its up to you how to clone or get a copy of the notes
 
 ```
 git clone https://github.com/dxxl/notes.git
 ```
+
+GOOD LUCK ON YOUR EXAMS GUYERS, OR QUIZZES
 ### AUTHORS
 dxxl [https://github.com/dxxl](https://github.com/dxxl)
 
